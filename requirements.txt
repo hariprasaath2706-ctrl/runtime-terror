@@ -1,0 +1,13 @@
+fastapi
+pydantic
+pydantic-settings
+python-dotenv
+requests
+PyPDF2
+python-docx
+pymupdf
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
